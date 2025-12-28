@@ -58,7 +58,7 @@ The State Pattern:
 5. Switch states dynamically at runtime
 
 ---
-(state_pattern.webp)
+![State Pattern Diagram](state_pattern.webp)
 
 ## Real-Life Software Examples
 - Media Player (Play / Pause / Stop)
